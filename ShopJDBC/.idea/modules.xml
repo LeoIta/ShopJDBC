@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/SDAOnlineShop.iml" filepath="$PROJECT_DIR$/SDAOnlineShop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ShopJDBC.iml" filepath="$PROJECT_DIR$/ShopJDBC.iml" />
     </modules>
   </component>
 </project>

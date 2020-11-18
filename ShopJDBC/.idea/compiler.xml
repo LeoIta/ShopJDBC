@@ -6,11 +6,11 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="SDAOnlineShop" />
+        <module name="ShopJDBC" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="SDAOnlineShop" target="1.8" />
+      <module name="ShopJDBC" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
